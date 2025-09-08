@@ -35,23 +35,6 @@ Using **Power BI**, I built an **interactive dashboard** that helps visualize pa
     Danceability, Energy & Tempo over Time (Line Chart)  
     Language-wise Trends (Spotify-themed colors)  
     Popularity trends by Year
-   
-
-##  Sample Insights
-  *A.R. Rahman* appeared among the top artists with a large number of tracks.  
-  English dominates track distribution, but other languages show interesting spikes.  
-  Danceability and Energy values show noticeable growth patterns over time.  
-  Artist collaborations reveal hidden music network patterns.  
-
-
-##  Screenshots
-*(Add screenshots of your Dashboard, Insights, Trends, etc.)*  
-Example placeholders:
- Home Page  
- Dashboard Page  
- Insights Page  
- Trends Page  
-
 
 
 ##  Tools & Skills Used

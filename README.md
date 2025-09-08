@@ -54,7 +54,7 @@ Example placeholders:
 
 
 
-## ⚙ Tools & Skills Used
+##  Tools & Skills Used
  **Power BI** → Data Visualization & Dashboard Design  
  **Power Query** → Data Cleaning & Transformation  
  **DAX** → Calculations & Measures  

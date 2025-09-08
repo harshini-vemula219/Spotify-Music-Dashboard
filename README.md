@@ -41,7 +41,7 @@ Using **Power BI**, I built an **interactive dashboard** that helps visualize pa
  **Power BI** → Data Visualization & Dashboard Design  
  **Power Query** → Data Cleaning & Transformation  
  **DAX** → Calculations & Measures  
- **SQL/Python (Optional mention if used)**  
+ 
 
 
 
@@ -53,7 +53,7 @@ Using **Power BI**, I built an **interactive dashboard** that helps visualize pa
 
 
 ##  About Me
-I’m **Harshini**, an aspiring **Data Analyst & Frontend Developer**.  
+I’m **Harshini**, an aspiring **Data Analyst**.  
 I enjoy transforming raw datasets into meaningful visual stories that drive insights.  
 Currently seeking opportunities in **Data Analytics / Business Intelligence**.  
 
